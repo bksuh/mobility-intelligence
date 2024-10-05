@@ -1,2 +1,3 @@
 # mobility-intelligence
-CROS0215-HW
+This Repo is for updating my HW files in class of CROS2015/Kyungpook National University
+:>
